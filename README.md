@@ -1,6 +1,1 @@
-# nira
-一个学习型项目，以JIRA为功能原型做.NET版本.
-
-有兴趣的同学可申请参与本项目的开发.
-
-具体架构稍后给出.
+请看 [NIRA WIKI](https://github.com/ODotNet/nira/wiki)
